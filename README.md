@@ -1,6 +1,9 @@
-# Welcome to the John Smith: Technician's Remix 1.6 Repository #
+![John Smith: Technician's Remix](http://i.imgur.com/Fyl6xYX.png)  
 
-## ***JSTR for MC 1.6*** ##
+## Welcome to the John Smith: Technician's Remix 1.6 Repository ##  
+------------------------------------------------------------------
+
+### ***JSTR for MC 1.6*** ###
 
 Please be aware due to constant state of flux MC has been experencing in relation to texture/resource packs within the past few months, the 1.6 JSTR is in a very WIP state at the moment.  This will hopefully stablise as future versions of MC release without further changes, we can then focus on mod additions alone, rather than completlely converting each and every texture to suit the new formats.
 
@@ -23,16 +26,17 @@ Bibliocraft - OK
 Buildcraft - OK  
 ChickenChunks - OK  
 CompactSolars - OK (Untested)  
+ComputerCraft - OK  
 EnderStorage - OK  
 Extra Biomes XL - Incomplete/Outdated  
 Iron Chests - OK  
+Minefactory Reloaded - OK  
 NEI - OK  
 Railcraft - OK  
 Thermal Expansion 2 - OK (Untested)  
 WRCBE - OK  
 
 Biomes 'O' Plenty - Incomplete  
-Computercraft - Incomplete/Outdated  
 Denpipes - Outdated  
 Factorization - Incomplete  
 Forestry - Incomplete  
@@ -40,6 +44,7 @@ Industrial Craft EXP - Incomplete
 Minefactory Reloaded - Untested  
 Plugins for Forestry - Incomplete  
 Steve's Carts 2 - Incomplete/Outdated  
+Tinkers Construct - Incomplete  
 
 Advanced IC2 Machines - Awaiting port from 1.4  
 Applied Energistics - Awaiting port from 1.5  
