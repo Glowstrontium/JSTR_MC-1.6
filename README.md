@@ -46,6 +46,7 @@ GregTech - Incomplete
 Industrial Craft EXP - Incomplete  
 Minefactory Reloaded - Untested  
 Plugins for Forestry - Incomplete  
+Project Red - Incomplete  
 Steve's Carts 2 - Incomplete/Outdated  
 Tinkers Construct - Incomplete  
 Twilight Forest - Incomplete
