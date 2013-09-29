@@ -48,6 +48,7 @@ Minefactory Reloaded - Untested
 Plugins for Forestry - Incomplete  
 Steve's Carts 2 - Incomplete/Outdated  
 Tinkers Construct - Incomplete  
+Twilight Forest - Incomplete
 
 Advanced IC2 Machines - Awaiting port from 1.4  
 GregTech - Awaiting port from 1.4  
@@ -62,7 +63,6 @@ Portal Gun - Awaiting port from 1.5 *Faithful 32x textures*
 Power Converters - Awaiting port from 1.5  
 Thaumic (Magic) Bees - Awaiting port from 1.5  
 TubeStuff - Awaiting port from 1.4  
-Twilight Forest - Awaiting port from 1.5  
 Xycraft - Awaiting port from 1.4  
 
 Greg's Lighting - Obsolete   
