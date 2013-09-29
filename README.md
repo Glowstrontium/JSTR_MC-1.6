@@ -1,6 +1,6 @@
 ![John Smith: Technician's Remix](http://i.imgur.com/Fyl6xYX.png)  
 
-## Welcome to the John Smith: Technician's Remix 1.6 Repository ##  
+### Welcome to the John Smith: Technician's Remix 1.6 Repository ###
 ------------------------------------------------------------------
 
 ### ***JSTR for MC 1.6*** ###
@@ -36,10 +36,12 @@ Railcraft - OK
 Thermal Expansion 2 - OK (Untested)  
 WRCBE - OK  
 
+Applied Energistics - Incomplete  
 Biomes 'O' Plenty - Incomplete  
 Denpipes - Outdated  
 Factorization - Incomplete  
 Forestry - Incomplete  
+GregTech - Incomplete  
 Industrial Craft EXP - Incomplete  
 Minefactory Reloaded - Untested  
 Plugins for Forestry - Incomplete  
@@ -47,7 +49,6 @@ Steve's Carts 2 - Incomplete/Outdated
 Tinkers Construct - Incomplete  
 
 Advanced IC2 Machines - Awaiting port from 1.4  
-Applied Energistics - Awaiting port from 1.5  
 GregTech - Awaiting port from 1.4  
 Soul Shards - Awaiting port from 1.4  
 Extra Bees - Awaiting port from 1.5  
