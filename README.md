@@ -30,6 +30,7 @@ CompactSolars - OK (Untested)
 ComputerCraft - OK  
 EnderStorage - OK  
 Extra Biomes XL - Incomplete/Outdated  
+Gravisuite - OK
 Iron Chests - OK  
 Minefactory Reloaded - OK  
 NEI - OK  
@@ -54,7 +55,6 @@ Twilight Forest - Incomplete
 
 GregTech - Awaiting port from 1.4  
 Extra Bees - Awaiting port from 1.5  
-Gravisuite - Awaiting port from 1.4  
 Logistics Pipes - Awaiting port from 1.5  
 MiscPeriphereals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.4  
