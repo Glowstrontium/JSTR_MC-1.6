@@ -33,6 +33,7 @@ Iron Chests - OK
 Minefactory Reloaded - OK  
 NEI - OK  
 Railcraft - OK  
+Soul Shards - OK
 Thermal Expansion 2 - OK (Untested)  
 WRCBE - OK  
 
@@ -50,7 +51,6 @@ Tinkers Construct - Incomplete
 
 Advanced IC2 Machines - Awaiting port from 1.4  
 GregTech - Awaiting port from 1.4  
-Soul Shards - Awaiting port from 1.4  
 Extra Bees - Awaiting port from 1.5  
 Gravisuite - Awaiting port from 1.4  
 Logistics Pipes - Awaiting port from 1.5  
