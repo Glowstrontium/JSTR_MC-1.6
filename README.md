@@ -21,6 +21,7 @@ Leenhaart
 
 #### **STATUS:** ####
 
+Advanced IC2 Machines - OK
 Advanced Solar Panels - OK  
 Bibliocraft - OK  
 Buildcraft - OK  
@@ -51,7 +52,6 @@ Steve's Carts 2 - Incomplete/Outdated
 Tinkers Construct - Incomplete  
 Twilight Forest - Incomplete
 
-Advanced IC2 Machines - Awaiting port from 1.4  
 GregTech - Awaiting port from 1.4  
 Extra Bees - Awaiting port from 1.5  
 Gravisuite - Awaiting port from 1.4  
