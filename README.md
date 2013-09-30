@@ -35,6 +35,7 @@ Iron Chests - OK
 Minefactory Reloaded - OK  
 Mystcraft - OK
 NEI - OK  
+Portal Gun - OK
 Railcraft - OK  
 Soul Shards - OK
 Thermal Expansion 2 - OK (Untested)  
@@ -60,7 +61,6 @@ Logistics Pipes - Awaiting port from 1.5
 MiscPeriphereals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.4  
 Nether Ores - Awaiting port from 1.5  
-Portal Gun - Awaiting port from 1.5 *Faithful 32x textures*  
 Power Converters - Awaiting port from 1.5  
 Thaumic (Magic) Bees - Awaiting port from 1.5  
 TubeStuff - Awaiting port from 1.4  
