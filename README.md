@@ -33,6 +33,7 @@ Extra Biomes XL - Incomplete/Outdated
 Gravisuite - OK
 Iron Chests - OK  
 Minefactory Reloaded - OK  
+Mystcraft - OK
 NEI - OK  
 Railcraft - OK  
 Soul Shards - OK
@@ -58,7 +59,6 @@ Extra Bees - Awaiting port from 1.5
 Logistics Pipes - Awaiting port from 1.5  
 MiscPeriphereals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.4  
-Mystcraft - Awaiting port from 1.5  
 Nether Ores - Awaiting port from 1.5  
 Portal Gun - Awaiting port from 1.5 *Faithful 32x textures*  
 Power Converters - Awaiting port from 1.5  
