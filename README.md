@@ -21,7 +21,7 @@ Leenhaart
 
 #### **STATUS:** ####
 
-Advanced IC2 Machines - OK
+Advanced IC2 Machines - OK  
 Advanced Solar Panels - OK  
 Bibliocraft - OK  
 Buildcraft - OK  
@@ -29,14 +29,14 @@ ChickenChunks - OK
 CompactSolars - OK (Untested)  
 ComputerCraft - OK  
 EnderStorage - OK  
-Gravisuite - OK
+Gravisuite - OK  
 Iron Chests - OK  
 Minefactory Reloaded - OK  
-Mystcraft - OK
+Mystcraft - OK  
 NEI - OK  
-Portal Gun - OK
+Portal Gun - OK  
 Railcraft - OK  
-Soul Shards - OK
+Soul Shards - OK  
 Thermal Expansion 2 - OK (Untested)  
 WRCBE - OK  
 
@@ -52,19 +52,19 @@ Plugins for Forestry - Incomplete
 Project Red - Incomplete  
 Steve's Carts 2 - Incomplete/Outdated  
 Tinkers Construct - Incomplete  
-Twilight Forest - Incomplete
+Twilight Forest - Incomplete  
 
-Extra Bees - Not released for 1.6 yet
+Extra Bees - Not released for 1.6 yet  
 Logistics Pipes - Awaiting port from 1.5  
 MiscPeripherals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.4  
-Nether Ores - Not released for 1.6 yet
+Nether Ores - Not released for 1.6 yet  
 Power Converters - Awaiting port from 1.5  
 Thaumic (Magic) Bees - Awaiting port from 1.5  
 TubeStuff - Awaiting port from 1.4  
-Xycraft - Not released for 1.6 yet
+Xycraft - Not released for 1.6 yet  
 
-Greg's Lighting - Obsolete   
+Greg's Lighting - Obsolete  
 Petroleum Generator - Obsolete  
 Project Bench - Obsolete  
 Redpower 2 - Obsolete  
