@@ -29,7 +29,6 @@ ChickenChunks - OK
 CompactSolars - OK (Untested)  
 ComputerCraft - OK  
 EnderStorage - OK  
-Extra Biomes XL - Incomplete/Outdated  
 Gravisuite - OK
 Iron Chests - OK  
 Minefactory Reloaded - OK  
@@ -44,27 +43,26 @@ WRCBE - OK
 Applied Energistics - Incomplete  
 Biomes 'O' Plenty - Incomplete  
 Denpipes - Outdated  
+Extra Biomes XL - Incomplete/Outdated  
 Factorization - Incomplete  
 Forestry - Incomplete  
 GregTech - Incomplete  
 Industrial Craft EXP - Incomplete  
-Minefactory Reloaded - Untested  
 Plugins for Forestry - Incomplete  
 Project Red - Incomplete  
 Steve's Carts 2 - Incomplete/Outdated  
 Tinkers Construct - Incomplete  
 Twilight Forest - Incomplete
 
-GregTech - Awaiting port from 1.4  
-Extra Bees - Awaiting port from 1.5  
+Extra Bees - Not released for 1.6 yet
 Logistics Pipes - Awaiting port from 1.5  
-MiscPeriphereals - Awaiting port from 1.4  
+MiscPeripherals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.4  
-Nether Ores - Awaiting port from 1.5  
+Nether Ores - Not released for 1.6 yet
 Power Converters - Awaiting port from 1.5  
 Thaumic (Magic) Bees - Awaiting port from 1.5  
 TubeStuff - Awaiting port from 1.4  
-Xycraft - Awaiting port from 1.4  
+Xycraft - Not released for 1.6 yet
 
 Greg's Lighting - Obsolete   
 Petroleum Generator - Obsolete  
