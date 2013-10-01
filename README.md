@@ -31,6 +31,7 @@ ComputerCraft - OK
 EnderStorage - OK  
 Gravisuite - OK  
 Iron Chests - OK  
+Logistics Pipes - OK  
 Minefactory Reloaded - OK  
 Mystcraft - OK  
 NEI - OK  
@@ -55,7 +56,6 @@ Tinkers Construct - Incomplete
 Twilight Forest - Incomplete  
 
 Extra Bees - Not released for 1.6 yet  
-Logistics Pipes - Awaiting port from 1.5  
 MiscPeripherals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.4  
 Nether Ores - Not released for 1.6 yet  
