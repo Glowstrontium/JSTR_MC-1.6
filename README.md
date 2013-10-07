@@ -52,6 +52,7 @@ Industrial Craft EXP - Incomplete
 Plugins for Forestry - Incomplete  
 Project Red - Incomplete  
 Steve's Carts 2 - Incomplete/Outdated  
+Thaumcraft 4 - Incomplete  
 Tinkers Construct - Incomplete  
 Twilight Forest - Incomplete  
 
