@@ -36,6 +36,7 @@ Logistics Pipes - OK
 Minefactory Reloaded - OK  
 Mystcraft - OK  
 NEI - OK  
+Nether Ores - OK  
 Portal Gun - OK  
 Railcraft - OK  
 Soul Shards - OK  
@@ -60,7 +61,6 @@ Twilight Forest - Incomplete
 Extra Bees - Not released for 1.6 yet  
 MiscPeripherals - Awaiting port from 1.4  
 MFFS - Awaiting port from 1.5  
-Nether Ores - Not released for 1.6 yet  
 Power Converters - Awaiting port from 1.5  
 TubeStuff - Awaiting port from 1.4  
 Xycraft - Not released for 1.6 yet  
