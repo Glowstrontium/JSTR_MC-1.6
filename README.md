@@ -23,6 +23,7 @@ Leenhaart
 
 Advanced IC2 Machines - OK  
 Advanced Solar Panels - OK  
+Applied Energistics - OK  
 Bibliocraft - OK  
 Buildcraft - OK  
 ChickenChunks - OK  
@@ -41,7 +42,6 @@ Soul Shards - OK
 Thermal Expansion 2 - OK (Untested)  
 WRCBE - OK  
 
-Applied Energistics - Incomplete  
 Biomes 'O' Plenty - Incomplete  
 Denpipes - Outdated  
 Extra Biomes XL - Incomplete/Outdated  
@@ -51,14 +51,14 @@ GregTech - Incomplete
 Industrial Craft EXP - Incomplete  
 Plugins for Forestry - Incomplete  
 Project Red - Incomplete  
-Steve's Carts 2 - Incomplete/Outdated  
+Steve's Carts 2 - Incomplete  
 Thaumcraft 4 - Incomplete  
 Tinkers Construct - Incomplete  
 Twilight Forest - Incomplete  
 
 Extra Bees - Not released for 1.6 yet  
 MiscPeripherals - Awaiting port from 1.4  
-MFFS - Awaiting port from 1.4  
+MFFS - Awaiting port from 1.5  
 Nether Ores - Not released for 1.6 yet  
 Power Converters - Awaiting port from 1.5  
 Thaumic (Magic) Bees - Awaiting port from 1.5  
