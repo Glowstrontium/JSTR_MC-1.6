@@ -49,6 +49,7 @@ Factorization - Incomplete
 Forestry - Incomplete  
 GregTech - Incomplete  
 Industrial Craft EXP - Incomplete  
+Magic Bees - Incomplete  
 Plugins for Forestry - Incomplete  
 Project Red - Incomplete  
 Steve's Carts 2 - Incomplete  
@@ -61,7 +62,6 @@ MiscPeripherals - Awaiting port from 1.4
 MFFS - Awaiting port from 1.5  
 Nether Ores - Not released for 1.6 yet  
 Power Converters - Awaiting port from 1.5  
-Thaumic (Magic) Bees - Awaiting port from 1.5  
 TubeStuff - Awaiting port from 1.4  
 Xycraft - Not released for 1.6 yet  
 
