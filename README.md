@@ -54,10 +54,12 @@ Extra Biomes XL - Incomplete/Outdated
 Factorization - Incomplete  
 Forestry - Incomplete  
 GregTech - Incomplete  
-Industrial Craft EXP - Incomplete  
+Industrial Craft EXP - Incomplete
+JABBA - Incomplete
 Magic Bees - Incomplete  
 Millenaire - Incomplete  
 Natura - Incomplete
+Nether Ores - Incomplete
 Plugins for Forestry - Incomplete  
 Project Red - Incomplete  
 Steve's Carts 2 - Incomplete  
