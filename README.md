@@ -10,72 +10,81 @@ Please be aware due to constant state of flux MC has been experencing in relatio
 
 #### JSTR Collaborators: ####
 
-jlbrewer  
-Satellence  
-Glowstrontium  
-goldbattle  
-Zica  
-Leenhaart  
+* jlbrewer
+* Satellence
+* Glowstrontium
+* goldbattle
+* Zica
+* Leenhaart  
+[More...](https://github.com/Glowstrontium/JSTR_MC-1.6/graphs/contributors)
 
 
 
 #### **STATUS:** ####
 
-Advanced IC2 Machines - OK  
-Advanced Solar Panels - OK  
-Applied Energistics - OK  
-Bibliocraft - OK  
-Buildcraft - OK  
-ChickenChunks - OK  
-CoFH Core - OK
-CompactSolars - OK (Untested)  
-ComputerCraft - OK  
-EnderStorage - OK  
-Gravisuite - OK  
-Iron Chests - OK  
-Logistics Pipes - OK  
-Minefactory Reloaded - OK  
-Mystcraft - OK  
-NEI - OK  
-Nether Ores - OK  
-Portal Gun - OK  
-Railcraft - OK  
-Soul Shards - OK  
-Thermal Expansion 3 - OK  
-WRCBE - OK  
-Underground Biomes - OK  
+* * *
 
-Biomes 'O' Plenty - Incomplete  
-Denpipes - Outdated  
-Dimensional Doors - Incomplete  
-Ender IO - Incomplete  
-Extra Bees - Incomplete
-Extra Biomes XL - Incomplete/Outdated  
-Factorization - Incomplete  
-Forestry - Incomplete  
-GregTech - Incomplete  
-Industrial Craft EXP - Incomplete
-JABBA - Incomplete
-Magic Bees - Incomplete  
-Millenaire - Incomplete  
-Natura - Incomplete
-Nether Ores - Incomplete
-Plugins for Forestry - Incomplete  
-Project Red - Incomplete  
-Steve's Carts 2 - Incomplete  
-Thaumcraft 4 - Incomplete  
-Thaumic Tinkerer - Incomplete  
-Tinkers Construct - Incomplete  
-Twilight Forest - Incomplete  
+* Advanced IC2 Machines - OK
+* Advanced Solar Panels - OK
+* Applied Energistics - OK
+* Bibliocraft - OK
+* Buildcraft - OK
+* ChickenChunks - OK
+* CoFH Core - OK
+* CompactSolars - OK
+* ComputerCraft - OK
+* EnderStorage - OK  
+* Gravisuite - OK
+* Iron Chests - OK
+* Logistics Pipes - OK
+* Minefactory Reloaded - OK
+* Mystcraft - OK
+* NEI - OK
+* Nether Ores - OK
+* Portal Gun - OK
+* Railcraft - OK
+* Soul Shards - OK
+* Thermal Expansion 3 - OK
+* WRCBE - OK
+* Underground Biomes - OK
 
-MiscPeripherals - Awaiting port from 1.4  
-MFFS - Awaiting port from 1.5  
-Power Converters - Awaiting port from 1.5  
-TubeStuff - Awaiting port from 1.4  
+* * *
 
-Greg's Lighting - Obsolete  
-Petroleum Generator - Obsolete  
-Project Bench - Obsolete  
-Redpower 2 - Obsolete  
-Thaumcraft 3 - Obsolete  
-Xycraft - Obsolete  
+* Biomes 'O' Plenty - Incomplete
+* Denpipes - Outdated
+* Dimensional Doors - Incomplete
+* Ender IO - Incomplete
+* Extra Bees - Incomplete
+* Extra Biomes XL - Incomplete/Outdated
+* Factorization - Incomplete
+* Forestry - Incomplete
+* GregTech - Incomplete
+* Industrial Craft EXP - Incomplete
+* JABBA - Incomplete
+* Magic Bees - Incomplete
+* Millenaire - Incomplete
+* Natura - Incomplete
+* Nether Ores - Incomplete
+* Plugins for Forestry - Incomplete  
+* Project Red - Incomplete
+* Steve's Carts 2 - Incomplete
+* Thaumcraft 4 - Incomplete
+* Thaumic Tinkerer - Incomplete
+* Tinkers Construct - Incomplete
+* Twilight Forest - Incomplete
+
+* * *
+
+* MiscPeripherals - Awaiting port from 1.4
+* MFFS - Awaiting port from 1.5
+* Power Converters - Awaiting port from 1.5
+* TubeStuff - Awaiting port from 1.4
+
+* * *
+
+* Greg's Lighting - Obsolete
+* Petroleum Generator - Obsolete
+* Project Bench - Obsolete
+* Redpower 2 - Obsolete
+* Thaumcraft 3 - Obsolete
+* Xycraft - Obsolete
